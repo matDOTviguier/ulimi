@@ -1,2 +1,2 @@
 # ulimi
-ulimi is a langage that aim to describe a network topology
+ulimi is a langage that aims at describing a complete datzacenter-grade *network topology* in **vi**.
